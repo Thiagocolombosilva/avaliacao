@@ -20,3 +20,5 @@ Dados 2 números, crie um retorno com a seguinte regra de retorno:
 - O Login não deverá ser sensitivecase, mas a senha sim.
 - Após fazer o login, deverá ser encaminhado para uma pagina que irá mostrar todas as consultas feitas ao webservices pelo aplicativo feito em Swing. Nesta página deverá conter as entradas de valores os resultados e também os que deram erro.
 
+## 4- Resolva os exercicios do documento "Avaliação Sql.docx"
+
