@@ -15,7 +15,7 @@ Dados 2 números, crie um retorno com a seguinte regra de retorno:
  Ex: A = 98754, B = 657, C deve ser 96857754. 
 - Caso C seja maior que 1.000.000, retornar um erro informando que os valores ultrapassam o limite. (este erro não precisa ser adicionado no grid do swing).
 
-## 3- No mesmo projeto do Webservice, criar 2 páginas em JPS, onde a primeira deverá ser uma tela com 2 campos (“login” e “senha”) com um botão “logar”. 
+## 3- No mesmo projeto do Webservice, criar 2 páginas em JPA, onde a primeira deverá ser uma tela com 2 campos (“login” e “senha”) com um botão “logar”. 
 - Ao clicar no botão logar, ele deverá validar se o login é igual a “maria” e a senha é igual a “Maria”. 
 - O Login não deverá ser sensitivecase, mas a senha sim.
 - Após fazer o login, deverá ser encaminhado para uma pagina que irá mostrar todas as consultas feitas ao webservices pelo aplicativo feito em Swing. Nesta página deverá conter as entradas de valores os resultados e também os que deram erro.
